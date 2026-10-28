@@ -1,0 +1,20 @@
+{
+  "name": "Estoque Infraspeak",
+  "short_name": "Estoque",
+  "description": "Atalho independente para os almoxarifados do Infraspeak",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fd",
+  "theme_color": "#f7f9fd",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
