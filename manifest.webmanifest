@@ -11,7 +11,13 @@
   "lang": "pt-BR",
   "icons": [
     {
-      "src": "./icon.svg",
+      "src": "./infraspeak-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./estoque-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
