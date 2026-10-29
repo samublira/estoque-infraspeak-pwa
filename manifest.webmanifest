@@ -11,16 +11,10 @@
   "lang": "pt-BR",
   "icons": [
     {
-      "src": "./app-icon-hd.svg",
+      "src": "./brand-icon-2026.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
-    },
-    {
-      "src": "./app-icon-hd.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "maskable"
     }
   ],
   "display_override": [
