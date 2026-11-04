@@ -2,6 +2,8 @@ name: V13 responsive browser validation
 on:
   push:
     branches: [test/v13-browser-validation]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 jobs:
   chromium-responsive:
